@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "kafka-config-service",
+      "type": "ru.aston.labs.concordia.starter.kafka.config.StarterKafkaConfigProperties",
+      "sourceType": "ru.aston.labs.concordia.starter.kafka.config.StarterKafkaConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "kafka-config-service.group",
+      "type": "java.lang.String",
+      "sourceType": "ru.aston.labs.concordia.starter.kafka.config.StarterKafkaConfigProperties"
+    },
+    {
+      "name": "kafka-config-service.server",
+      "type": "java.lang.String",
+      "sourceType": "ru.aston.labs.concordia.starter.kafka.config.StarterKafkaConfigProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,5 @@
+ru\aston\labs\concordia\starter\kafka\config\StarterKafkaConfigAutoConfiguration.class
+ru\aston\labs\concordia\starter\kafka\config\StarterKafkaConfigProperties.class
+ru\aston\labs\concordia\starter\kafka\Main.class
+ru\aston\labs\concordia\starter\kafka\config\EnvPostProcessor.class
+META-INF\spring-configuration-metadata.json
